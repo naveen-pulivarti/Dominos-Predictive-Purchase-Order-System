@@ -192,7 +192,7 @@ Five models, identical weekly data, identical held-out weeks, identical metric.
 | ARIMA | 0.0853 | 91.47% | 2 |
 | Regression | 0.0914 | 90.86% | 3 |
 | Prophet | 0.0962 | 90.38% | 4 |
-| LSTM | 0.0997 | 90.03% | 5 (Worst) |
+| LSTM | 0.0984 | 90.16% | 5 (Worst) |
 
 **Why SARIMA won.** It was the only model given an explicit seasonal block, and the grid search
 selected a 13-week seasonal period - roughly a quarter. With trend and seasonality separated,

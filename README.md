@@ -140,7 +140,7 @@ weeks:
 | ARIMA | 0.0853 | 2 | 91.47% | nan |
 | Regression | 0.0914 | 3 | 90.86% | nan |
 | Prophet | 0.0962 | 4 | 90.38% | nan |
-| LSTM | 0.0997 | 5 | 90.03% | Worst |
+| LSTM | 0.0984 | 5 | 90.16% | Worst |
 
 ![Model comparison](outputs/figures/18_model_comparison.png)
 
@@ -232,6 +232,7 @@ Dominos-Predictive-Purchase-Order-System/
 |   +-- purchase_order_summary.csv
 +-- reports/
 |   +-- project_report.md        Deliverable 4: methodology and findings
+|   +-- Dominos - Predictive Purchase Order System.pptx   18-slide presentation
 +-- requirements.txt
 +-- README.md
 ```
@@ -265,6 +266,10 @@ Runtime is roughly 20-30 minutes, most of it in the SARIMA grid search and the p
 | 2 | Predictive model with code and evaluation metrics | `notebooks/`, `outputs/model_comparison.csv`, `models/` |
 | 3 | Detailed purchase order for the next week | `outputs/purchase_order_next_week.csv` |
 | 4 | Project report - methodology, findings, business implications | `reports/project_report.md` |
+
+Plus an 18-slide presentation walking through the project end to end:
+[`reports/Dominos - Predictive Purchase Order System.pptx`](reports/) - built from the same
+output files as this README, with speaker notes on every slide.
 
 ---
 
