@@ -1,0 +1,33 @@
+# Domino's - Predictive Purchase Order System
+# Tested with Python 3.12.5
+#
+#   python -m venv venv
+#   venv\Scripts\activate          (Windows)   |   source venv/bin/activate  (macOS/Linux)
+#   pip install -r requirements.txt
+
+# Core data handling
+numpy==2.5.3
+pandas==3.0.5
+
+# Visualisation
+matplotlib==3.11.1
+seaborn==0.13.2
+
+# Feature engineering
+holidays==0.104
+
+# Time series forecasting - ARIMA / SARIMA
+statsmodels==0.15.0
+
+# Time series forecasting - Prophet
+prophet==1.4.0
+
+# Regression and preprocessing
+scikit-learn==1.9.0
+
+# Deep learning - LSTM
+tensorflow==2.21.0
+
+# Notebook environment
+jupyter==1.1.1
+notebook==7.6.2

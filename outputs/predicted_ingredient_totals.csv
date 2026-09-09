@@ -1,0 +1,65 @@
+Item_No,Ingredient,Required_Quantity_Grams,Required_Quantity_Kg
+1,Chicken,19200.0,19.2
+2,Red Onions,19000.0,19.0
+3,Capocollo,15950.0,15.95
+4,Bacon,13300.0,13.3
+5,Tomatoes,12560.0,12.56
+6,Pepperoni,10770.0,10.77
+7,Mushrooms,8660.0,8.66
+8,Spinach,6735.0,6.74
+9,Garlic,6615.0,6.62
+10,Corn,5850.0,5.85
+11,Mozzarella Cheese,4940.0,4.94
+12,Calabrese Salami,4450.0,4.45
+13,Beef Chuck Roast,3920.0,3.92
+14,Red Peppers,3755.0,3.76
+15,Goat Cheese,3360.0,3.36
+16,Feta Cheese,3290.0,3.29
+17,Coarse Sicilian Salami,3280.0,3.28
+18,Artichokes,2930.0,2.93
+19,Pineapple,2880.0,2.88
+20,Parmigiano Reggiano Cheese,2820.0,2.82
+21,Chorizo Sausage,2650.0,2.65
+22,Soppressata Salami,2450.0,2.45
+23,Green Peppers,1990.0,1.99
+24,Genoa Salami,1860.0,1.86
+25,Chipotle Sauce,1740.0,1.74
+26,Luganega Sausage,1640.0,1.64
+27,Fontina Cheese,1590.0,1.59
+28,Barbecued Chicken,1520.0,1.52
+29,Ricotta Cheese,1500.0,1.5
+30,Asiago Cheese,1450.0,1.45
+31,Jalapeno Peppers,1420.0,1.42
+32,Green Olives,1405.0,1.4
+33,Pesto Sauce,1330.0,1.33
+34,Plum Tomatoes,1260.0,1.26
+35,Sliced Ham,1225.0,1.23
+36,Pancetta,1200.0,1.2
+37,Gorgonzola Piccante Cheese,1200.0,1.2
+38,Gouda Cheese,1100.0,1.1
+39,Zucchini,1050.0,1.05
+40,Kalamata Olives,1015.0,1.01
+41,Eggplant,940.0,0.94
+42,Thai Sweet Chilli Sauce,940.0,0.94
+43,Anchovies,925.0,0.92
+44,Prosciutto di San Daniele,880.0,0.88
+45,Cilantro,870.0,0.87
+46,Smoked Gouda Cheese,840.0,0.84
+47,Provolone Cheese,840.0,0.84
+48,Blue Cheese,840.0,0.84
+49,Romano Cheese,840.0,0.84
+50,Onions,820.0,0.82
+51,?duja Salami,800.0,0.8
+52,Sun-dried Tomatoes,535.0,0.54
+53,Italian Sausage,530.0,0.53
+54,Barbecue Sauce,530.0,0.53
+55,Peperoncini verdi,495.0,0.5
+56,Arugula,375.0,0.38
+57,Alfredo Sauce,355.0,0.36
+58,Oregano,345.0,0.34
+59,Brie Carre Cheese,330.0,0.33
+60,Prosciutto,330.0,0.33
+61,Friggitello Peppers,200.0,0.2
+62,Caramelized Onions,176.0,0.18
+63,Pears,110.0,0.11
+64,Thyme,55.0,0.06

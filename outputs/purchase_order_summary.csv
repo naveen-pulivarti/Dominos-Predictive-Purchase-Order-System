@@ -1,0 +1,11 @@
+Metric,Value
+Forecast week start,2015-12-28
+Forecast week end,2016-01-03
+Model used,SARIMA
+Model MAPE,0.0804
+Model accuracy (1 - MAPE),91.96%
+Total pizzas forecast,"1,085"
+Distinct pizza types forecast,91
+Distinct ingredients to order,64
+Total ingredient weight (kg),198.79
+Heaviest single ingredient,Chicken (19.2 kg)
