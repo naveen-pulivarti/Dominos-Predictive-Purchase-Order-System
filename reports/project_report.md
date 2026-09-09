@@ -192,7 +192,7 @@ Five models, identical weekly data, identical held-out weeks, identical metric.
 | ARIMA | 0.0853 | 91.47% | 2 |
 | Regression | 0.0914 | 90.86% | 3 |
 | Prophet | 0.0962 | 90.38% | 4 |
-| LSTM | 0.0981 | 90.19% | 5 (Worst) |
+| LSTM | 0.0997 | 90.03% | 5 (Worst) |
 
 **Why SARIMA won.** It was the only model given an explicit seasonal block, and the grid search
 selected a 13-week seasonal period - roughly a quarter. With trend and seasonality separated,
@@ -208,7 +208,7 @@ within 1.1 percentage points of SARIMA. Given the mild seasonality found in the 
 the predictable signal is simple. Any additional complexity has to justify itself against this
 baseline.
 
-The spread across all five is under 1.8 percentage points, which is itself informative: the
+The spread across all five is under 2 percentage points, which is itself informative: the
 series is well-behaved and no approach fails badly.
 
 One caveat on reproducibility: the four classical models are deterministic and reproduce

@@ -140,7 +140,7 @@ weeks:
 | ARIMA | 0.0853 | 2 | 91.47% | nan |
 | Regression | 0.0914 | 3 | 90.86% | nan |
 | Prophet | 0.0962 | 4 | 90.38% | nan |
-| LSTM | 0.0981 | 5 | 90.19% | Worst |
+| LSTM | 0.0997 | 5 | 90.03% | Worst |
 
 ![Model comparison](outputs/figures/18_model_comparison.png)
 
